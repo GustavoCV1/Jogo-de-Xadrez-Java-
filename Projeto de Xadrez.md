@@ -1,1 +1,1 @@
-# Projeto de Xadrez feito em um curso de Java do professor Nélio Alves 
+# Projeto de Xadrez feito em um curso de Java do professor Nélio Alves - Udemy
